@@ -1,0 +1,1 @@
+Drop Trigger if exists checkInsertTreinador
